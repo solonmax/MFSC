@@ -1,5 +1,4 @@
-# MFSC + TUA: Multi-scale Frequency–Spatial Cooperation with Task-specific Uncertainty Allocation
-
+# Uncertainty-Aware Frequency–Spatial Diffusion for Universal Image Restoration
 **Official PyTorch implementation of**  
 **"MFSC + TUA for Universal Image Restoration"**  
 (*submitted to XXXX, 2025*)
